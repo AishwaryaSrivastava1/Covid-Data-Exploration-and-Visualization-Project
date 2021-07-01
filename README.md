@@ -1,4 +1,4 @@
-# Covid-Data-Exploration-and-Vizualization-Project
+# Covid-Data-Exploration-and-Visualization-Project
 
 Covid Dataset can be downloaded from https://ourworldindata.org/covid-deaths. <br/>
 I have split the dataset into 2 tables, CovidDeaths and CovidVaccines, to obtain the desired result.<br/>
